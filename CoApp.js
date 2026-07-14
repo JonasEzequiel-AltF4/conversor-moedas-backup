@@ -3,7 +3,7 @@ document.getElementById('convertBtn').addEventListener('click', function() {
     const usdRate = 5.00; // Cotação fixa para a v1.0.0
     
     if (isNaN(brlValue) || brlValue <= 0) {
-        document.getElementById('result').innerText = "Por favor, insira um valor válido.";
+        document.getElementById('result').innerText = "Erro: Digite um valor maior que zero.";
         return;
     }
     
