@@ -9,4 +9,5 @@ Este é um projeto académico de um conversor de moedas que corre inteiramente n
 * **Thallyson Victor da Silva de Paiva** - GitHub: [@THALLYSHOW](https://github.com/THALLYSHOW)
 
 ## Versões do Projeto
-* **v1.0 (Atual):** Conversor funcional de Real para Dólar (BRL -> USD) utilizando taxa fixa de conversão. Sem foco em design ou CSS.
+* **v1.0 (Antigo):** Conversor funcional de Real para Dólar (BRL -> USD) utilizando taxa fixa de conversão. Sem foco em design ou CSS.
+* **v2.0 (Atual):** Conversor funcional de Real para Dólar/Euro (BRL -> USD, EUR) utilizando taxa fixa de conversão. Sem foco em design ou CSS.
